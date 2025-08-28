@@ -1,5 +1,5 @@
 {   
-   "name": "PF1E Crit Decks",   
+   "name": "pf1e-crit-decks",   
    "title": "Critical Hits and Fumbles for PF1E",   
    "description": "Rolltables and Buffs for rolling Crits and Fumbles",   
    "author": "Red Mop",
@@ -7,8 +7,8 @@
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.8.6",
    "url":"https://github.com/Digmarx/pf1e-crit-decks",
-   "download":"https://github.com/Digmarx/fvtt-crit-hits-and-fumbles-pf1-v11/releases/download/Release/2023.10.21.zip",
-   "manifest":"https://raw.githubusercontent.com/redmop/fvtt-crit-hits-and-fumbles-pf1-v11/main/module.json",
+   "download":"https://github.com/Digmarx/pf1e-crit-decks/releases/download/hey_there_blimpy_boy/pf1-crit-decks.zip",
+   "manifest":"https://github.com/Digmarx/pf1e-crit-decks/blob/main/module.json",
    "packs": [
    {
       "name": "crithits",
@@ -16,7 +16,7 @@
       "path": "packs/crithits.db",
       "type": "RollTable",
       "entity": "Item",
-      "module": "critical-hits-and-fumbles-pf1-v11",
+      "module": "pf1e-crit-decks",
       "system": "pf1"
     },
     {
@@ -25,7 +25,7 @@
       "path": "packs/critfumbles.db",
       "type": "Item",
       "entity": "Item",
-      "module": "critical-hits-and-fumbles-pf1-v11",
+      "module": "pf1e-crit-decks",
       "system": "pf1"
     },
     {
@@ -34,7 +34,7 @@
       "path": "packs/critrolls.db",
       "type": "RollTable",
       "entity": "RollTable",
-      "module": "critical-hits-and-fumbles-pf1-v11",
+      "module": "pf1e-crit-decks",
       "system": "pf1"
     }
   ]
