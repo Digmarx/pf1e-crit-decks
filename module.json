@@ -8,7 +8,7 @@
    "compatibleCoreVersion":"0.8.6",
    "url":"https://github.com/Digmarx/pf1e-crit-decks",
    "download":"https://github.com/Digmarx/pf1e-crit-decks/releases/download/hey_there_blimpy_boy/pf1-crit-decks.zip",
-   "manifest":"https://github.com/Digmarx/pf1e-crit-decks/blob/main/module.json",
+   "manifest":"https://raw.githubusercontent.com/Digmarx/pf1e-crit-decks/main/module.json",
    "packs": [
    {
       "name": "crithits",
